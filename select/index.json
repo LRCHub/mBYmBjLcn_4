@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ヘッドライト・テールライト",
+  "base_artist": "中島みゆき",
+  "createdAt": "2025-12-02T14:49:58.268891Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヘッドライト・テールライト",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/01_ヘッドライト・テールライト_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヘッドライト・テールライト",
+      "artist": "Nakajima, Miyuki",
+      "has_synced": false,
+      "path": "select/02_ヘッドライト・テールライト_Nakajima,_Miyuki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヘッドライト・テールライト",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/03_ヘッドライト・テールライト_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヘッドライト・テールライト",
+      "artist": "中島 みゆき",
+      "has_synced": false,
+      "path": "select/pl_01_ヘッドライト・テールライト_中島_みゆき.txt"
+    }
+  ]
+}
